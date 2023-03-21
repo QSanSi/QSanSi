@@ -1,27 +1,26 @@
-### Hi there 👋 I am YJLAugus
+### Hi there 👋 I am QSanSi
 
 <p><img src="https://count.getloli.com/get/@github.readme"></a><img src="https://weather-icon.journeyad.repl.co/@binzhou?v=1" align="right"></p>
 
-####  👨‍💻  Coding  |  :running:  Running  |  :office:  Working Hard  |  :hearts:  Be Nice
+####  👨‍💻  Coding  |  🎮:  Playing Game  |  🎓:  Study Hard  |  🍖:  Eating  |  😘:  Love MM
 
-[![YJLAugus's github stats](https://github-readme-stats.vercel.app/api?username=YJLAugus&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![QSanSi's github stats](https://github-readme-stats.vercel.app/api?username=QSanSi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👯 You can find me in my blog  [YJLAugus](https://www.cnblogs.com/yjlaugus) 
+- 👯 You can find me in my blog  [QSanSi](https://www.cnblogs.com/qsswxm/) 
 - 💬 Ask me about anything as long as I can
-- 📫 How to reach me: imyjl@qq.com
-- 😄 2020 Nothing just happens, it's all part of a plan.
+- 📫 How to reach me: 964193177@qq.com
+- 😄 2022 Nothing just happens, it's all part of a plan.
 
 
 ####  :rainbow:  Focusing
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YJLAugus&repo=Reinforcement-Learning-Notes)](https://github.com/YJLAugus/Reinforcement-Learning-Notes)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YJLAugus&repo=Inios)](https://github.com/YJLAugus/Inios)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=QSanSi&repo=computerese-cross-references)](https://github.com/QSanSi/computerese-cross-references)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=QSanSi&repo=AlgoSolutions)](https://github.com/QSanSi/AlgoSolutions)
+
 
 ####  :hammer:  Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJLAugus&hide=html,css)](https://github.com/YJLAugus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QSanSi&hide=html,css)](https://github.com/QSanSi)
 
-####  :sparkling_heart:  Focusing BBC
-
-<a href="https://chat.getloli.com/room/@YJLAugus.github?title=YJLAugus-chatroom"><img src="https://chat.getloli.com/room/@YJLAugus.github/svg?width=600&height=280&limit=20&theme=light&title=YJLAugus@github:%20~&fontSize=13" align="left"></a>
+####  :sparkling_heart:  MM is the best!
