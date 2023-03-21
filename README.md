@@ -4,7 +4,7 @@
 
 ####  👨‍💻  Coding  |  🎮:  Playing Game  |  🎓:  Study Hard  |  🍖:  Eating  |  😘:  Love MM
 
-[![QSanSi's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=QSanSi&show_icons=true)](https://github-readme-stats-ruby-one.vercel.app)
+[![QSanSi's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=QSanSi&show_icons=true)](https://github-readme-stats-ten-gilt.vercel.app)
 
 
 - 👯 You can find me in my blog  [QSanSi](https://www.cnblogs.com/qsswxm/) 
@@ -15,12 +15,12 @@
 
 ####  :rainbow:  Focusing
 
-[![Focus Repo](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=QSanSi&repo=computerese-cross-references)](https://github.com/QSanSi/computerese-cross-references)
-[![Focus Repo](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=QSanSi&repo=AlgoSolutions)](https://github.com/QSanSi/AlgoSolutions)
+[![Focus Repo](https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=QSanSi&repo=computerese-cross-references)](https://github.com/QSanSi/computerese-cross-references)
+[![Focus Repo](https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=QSanSi&repo=AlgoSolutions)](https://github.com/QSanSi/AlgoSolutions)
 
 
 ####  :hammer:  Language
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=QSanSi&hide=html,css)](https://github.com/QSanSi)
+[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=QSanSi&hide=html,css)](https://github.com/QSanSi)
 
 ####  :sparkling_heart:  MM is the best!
