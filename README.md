@@ -4,7 +4,7 @@
 
 ####  👨‍💻  Coding  |  🎮:  Playing Game  |  🎓:  Study Hard  |  🍖:  Eating  |  😘:  Love MM
 
-[![QSanSi's github stats](https://github-readme-stats.vercel.app/api?username=QSanSi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![QSanSi's github stats](https://github-readme-stats.vercel.app/api?username=QSanSi&show_icons=true)](https://github-readme-stats-ruby-one.vercel.app)
 
 
 - 👯 You can find me in my blog  [QSanSi](https://www.cnblogs.com/qsswxm/) 
