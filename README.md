@@ -15,9 +15,8 @@
 
 ####  :rainbow:  Focusing
 
-[![Focus Repo](https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=QSanSi&repo=computerese-cross-references)](https://github.com/QSanSi/computerese-cross-references)
+[![Focus Repo](https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=QSanSi&repo=LanBaoZi)](https://github.com/QSanSi/LanBaoZi)
 [![Focus Repo](https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=QSanSi&repo=AlgoSolutions)](https://github.com/QSanSi/AlgoSolutions)
-
 
 ####  :hammer:  Language
 
