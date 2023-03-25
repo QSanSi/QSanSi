@@ -16,7 +16,7 @@
 ####  :rainbow:  Focusing
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=QSanSi&repo=LanBaoZi)](https://github.com/QSanSi/LanBaoZi)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=QSanSi&repo=AlgoSolutions)](https://github.com/QSanSi/AlgoSolutions)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=QSanSi&repo=rescue)](https://github.com/QSanSi/rescue)
 
 ####  :hammer:  Language
 
